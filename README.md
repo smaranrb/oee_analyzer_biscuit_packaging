@@ -5,7 +5,6 @@ A GenAI-powered web application that calculates and displays the Overall Equipme
 ## Features
 
 - Natural language query interface
-- LLaMA 3 8B model integration for query understanding
 - Modular agent-based architecture
 - Real-time OEE calculations
 - Conversational UI with context retention
